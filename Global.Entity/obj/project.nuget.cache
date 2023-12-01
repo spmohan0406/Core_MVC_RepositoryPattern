@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMtrqkKHcplTKQukwX8uBfS1/XLzWwIN06dy6/w7w3BbwV5J+gLA/BxPCWfzW/DqnIz5gQJEfi4i4YYMsyrycQ==",
+  "success": true,
+  "projectFilePath": "D:\\WebAppolication\\WorkOut\\Core_MVC-master\\Global.Entity\\Global.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELCOT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ELCOT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ELCOT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

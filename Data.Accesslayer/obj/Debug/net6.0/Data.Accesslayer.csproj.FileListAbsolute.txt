@@ -1,0 +1,17 @@
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\bin\Debug\net6.0\Data.Accesslayer.deps.json
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\bin\Debug\net6.0\Data.Accesslayer.runtimeconfig.json
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\bin\Debug\net6.0\Data.Accesslayer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\bin\Debug\net6.0\Data.Accesslayer.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\bin\Debug\net6.0\Global.Entity.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\bin\Debug\net6.0\Global.Entity.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.csproj.AssemblyReference.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.AssemblyInfoInputs.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.AssemblyInfo.cs
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.csproj.CoreCompileInputs.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.csproj.CopyComplete
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\refint\Data.Accesslayer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\Data.Accesslayer.genruntimeconfig.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Data.Accesslayer\obj\Debug\net6.0\ref\Data.Accesslayer.dll

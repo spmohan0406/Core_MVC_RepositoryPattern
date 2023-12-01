@@ -1,0 +1,17 @@
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Business.Layer.deps.json
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Business.Layer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Business.Layer.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Data.Accesslayer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Global.Entity.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Data.Accesslayer.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\bin\Debug\net6.0\Global.Entity.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.csproj.AssemblyReference.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.AssemblyInfoInputs.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.AssemblyInfo.cs
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.csproj.CoreCompileInputs.cache
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.csproj.CopyComplete
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\refint\Business.Layer.dll
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\Business.Layer.pdb
+D:\WebAppolication\WorkOut\Core_MVC-master\Business.Layer\obj\Debug\net6.0\ref\Business.Layer.dll
